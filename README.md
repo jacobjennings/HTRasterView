@@ -1,3 +1,5 @@
+# I can no longer recommend these techniques or this code. Leaving it here because it was an interesting project.
+
 <img src="https://raw.github.com/hoteltonight/HTDelegateProxy/master/ht-logo-black.png" alt="HotelTonight" title="HotelTonight" style="display:block; margin: 10px auto 30px auto;">
 
 HTRasterView
